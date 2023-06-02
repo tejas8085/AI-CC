@@ -1,0 +1,39 @@
+trailhead login
+profile
+Hands on org
+create plyground
+setting - developer console
+file new apex class
+
+
+
+**** APEX CODE 
+1 ADDITION OF TWO NUMBERS
+
+public class Add {
+    
+    public static void addt(Integer x, Integer y){
+        Integer z = x+y;
+        System.debug('addition  is '+z);
+        
+}
+}
+
+
+
+
+2) EVEN AND ODD 
+
+public class EvenAndOdd {
+    
+    public static void findOddAndEvenNumber(Integer x){
+        Integer y = x/2;
+        System.debug('Number is '+x);
+        Integer z = y * 2;
+        if(x == z ){
+            System.debug('The number is even.');
+        } else{
+            System.debug('The number is odd.');
+}
+}
+}

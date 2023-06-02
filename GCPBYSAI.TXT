@@ -1,0 +1,30 @@
+Go to cloud 
+ Console 
+ Create project  
+ Select project 
+ Click on side bar 
+ Api and services 
+ Enabled api and service 
+ Api library 
+ Search "app engine admin api" 
+ Click on enable 
+ Activate cloud shell 
+ Continue 
+ Open in new window 
+ Cloud shell command👇 
+ "gcloud projects list" 
+ Copy project id 
+ gcloud config set project projectid 
+ Search in new tab "google cloud platform github" 
+ Get project form github and copy link 
+ "git clone projectlink" 
+ ls 
+ cd python-docs-samples/ 
+ ls 
+ cd appengine/ 
+ ls 
+ cd standard_python3 
+ ls 
+ cd hello_world/ 
+ python main.py 
+ Ip address run kara
